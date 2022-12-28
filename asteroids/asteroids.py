@@ -1,4 +1,4 @@
-# asteroids game tutorial
+# asteroidz game tutorial
 import pgzrun
 
 WIDTH = 800
